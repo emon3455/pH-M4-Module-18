@@ -38,5 +38,7 @@ if (graduate === true){
 }
 
 else{
-    console.log("you are not eligable for the job");
+    console.log("you are not eligible for the job");
 }
+
+console.log(6 != 6);
